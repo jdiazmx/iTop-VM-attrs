@@ -19,6 +19,7 @@ Dict::Add('FR FR', 'French', 'Français', array(
 	'Class:VirtualMachine/Attribute:S_CurrentHypervisor' => 'Hébergé par',
 	'Class:VirtualMachine/Attribute:S_OS_Version' => 'Version de l\'OS',
 	'Class:VirtualMachine/Attribute:S_OS_Distributor' => 'Revendeur de l\'OS',
+	'Class:VirtualMachine/Attribute:NetBackup_Version' => 'Version de Veritas NetBackup',
 	'Class:VirtualMachine/Attribute:location_id' => 'Site',
 	'Class:VirtualMachine/Attribute:S_Comment' => 'Commentaires',
 	'Class:VirtualMachine/Attribute:S_Usage' => 'Type d\'utilisation',
