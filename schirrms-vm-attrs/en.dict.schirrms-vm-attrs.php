@@ -19,7 +19,7 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:VirtualMachine/Attribute:S_CurrentHypervisor' => 'Hosted by',
 	'Class:VirtualMachine/Attribute:S_OS_Version' => 'OS Version',
 	'Class:VirtualMachine/Attribute:S_OS_Distributor' => 'OS Distributor',
-	'Class:VirtualMachine/Attribute:NetBackup_Version' => 'Veritas NetBackup Version',
+	'Class:VirtualMachine/Attribute:netbackup_version' => 'Veritas NetBackup Version',
 	'Class:VirtualMachine/Attribute:location_id' => 'Location',
 	'Class:VirtualMachine/Attribute:S_Comment' => 'Comments',
 	'Class:VirtualMachine/Attribute:S_Usage' => 'Type of use',
