@@ -26,6 +26,7 @@ Dict::Add('FR FR', 'French', 'Français', array(
 	'Class:VirtualMachine/Attribute:S_Project' => 'Projet d\'appartenance',
 	'Class:VirtualMachine/Attribute:S_Template' => 'Template originel',
 	'Class:VirtualMachine/Attribute:S_Backup' => 'Informations de sauvegardes',
+	'Class:VirtualMachine/Attribute:power_status' => 'Etat alimentation VM',
 	'Class:lnkVirtualDeviceToVolume/Attribute:virtual_volume_name' => 'Nom dans le système virtuel', 
 ));
 ?>

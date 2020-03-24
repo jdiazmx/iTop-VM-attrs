@@ -26,6 +26,7 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:VirtualMachine/Attribute:S_Project' => 'Membership Project',
 	'Class:VirtualMachine/Attribute:S_Template' => 'Original Template',
 	'Class:VirtualMachine/Attribute:S_Backup' => 'Backup informations',
+	'Class:VirtualMachine/Attribute:power_status' => 'VM power state',
 	'Class:lnkVirtualDeviceToVolume/Attribute:virtual_volume_name' => 'Name in the virtual system', 
 ));
 ?>

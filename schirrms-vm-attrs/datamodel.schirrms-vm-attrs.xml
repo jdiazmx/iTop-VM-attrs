@@ -102,6 +102,11 @@
 					<default_value></default_value>
 					<is_null_allowed>true</is_null_allowed>
 				</field>
+				<field id="power_status" xsi:type="AttributeString" _delta="define">
+					<sql>power_status</sql>
+					<default_value></default_value>
+					<is_null_allowed>true</is_null_allowed>
+				</field>
 			</fields>
 			<presentation>
 				<details>
@@ -173,6 +178,9 @@
 										</item>
 										<item id="S_CurrentHypervisor" _delta="define">
 											<rank>20</rank>
+										</item>
+										<item id="power_status" _delta="define">
+											<rank>30</rank>
 										</item>
 									</items>
 								</item>
