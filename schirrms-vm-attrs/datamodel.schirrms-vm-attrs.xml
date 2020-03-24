@@ -104,6 +104,7 @@
 				</field>
 				<field id="power_status" xsi:type="AttributeString" _delta="define">
 					<sql>power_status</sql>
+					<tracking_level _delta="force">none</tracking_level>
 					<default_value></default_value>
 					<is_null_allowed>true</is_null_allowed>
 				</field>
