@@ -108,6 +108,11 @@
 					<default_value></default_value>
 					<is_null_allowed>true</is_null_allowed>
 				</field>
+				<field id="vcenter" xsi:type="AttributeString" _delta="define">
+					<sql>vcenter</sql>
+					<default_value></default_value>
+					<is_null_allowed>true</is_null_allowed>
+				</field>
 			</fields>
 			<presentation>
 				<details>
@@ -118,6 +123,9 @@
 									<items>
 										<item id="location_id" _delta="define">
 											<rank>45</rank>
+										</item>
+										<item id="vcenter" _delta="define">
+											<rank>48</rank>
 										</item>
 									</items>
 								</item>
